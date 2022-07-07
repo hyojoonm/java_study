@@ -30,3 +30,4 @@ class Car {
         System.out.println("멈춰!!");
     }
 }
+
