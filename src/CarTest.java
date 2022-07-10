@@ -18,7 +18,7 @@ class Car {
         this.color = color;
     }
 
-    void power() { // 메서드 선언
+    public void power() { // 메서드 선언
         System.out.println("시동을 걸었습니다.");
     }
 
