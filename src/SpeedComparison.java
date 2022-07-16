@@ -24,6 +24,9 @@ public class SpeedComparison {
         System.out.println("순차적인 추가 - LinkedList : " + Math.round((endTime - startTime) / 1000000 * 100) / 100.0 + "ms");
         System.out.println("--------------------------------------------------");
 
+
+
+
         // 순차적인 삭제
         System.out.println("--------------------------------------------------");
         startTime = System.nanoTime();
